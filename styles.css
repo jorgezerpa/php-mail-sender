@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #ededed;
+}
+form{
+    width: 700px;
+    margin: auto;
+    background: #8bf;
+    margin-top: 100px;
+}
+input, textarea{
+    margin: 15px;
+    padding: 10px;
+    width: 640px;
+    font-size: 18px;
+}
